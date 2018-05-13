@@ -7,7 +7,7 @@ class Header extends Component {
     return (
       <header className={styles.header}>
         <img src={headshot} className={styles.logo} alt="logo" />
-        <h1 className={styles.title}>Hugh Gardiner</h1>
+        <h1 className={styles.title}>Hugh Gardiner's Github Page</h1>
       </header>
     );
   }
